@@ -1,6 +1,6 @@
-# turf
+# aloha-CRM
 
-This is a MERN boiler plate for the project "turf", just change the mongoDB keys in config/keys.js to your's and start developing.
+This is Customer-relationship management app, built on the top of MERN_STACK.
 
 ## Available Scripts
 
@@ -8,9 +8,7 @@ In the project directory, first run
 
 ### `npm install`
 
-then run this if the dependencies are still missing.
-
-### `npm i nodemon express mongoose concurrently` 
+then run this for the client's dependencies to install. 
 
 ### `npm run client-install`
 
