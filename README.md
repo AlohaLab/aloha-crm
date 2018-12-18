@@ -2,6 +2,9 @@
 
 This is Customer-relationship management app, built on the top of MERN_STACK.
 
+![alt text](https://github.com/harisbaig100/aloha-crm/blob/master/Screen%20Shot%202018-12-18%20at%206.38.46%20PM.png)
+
+
 ## Available Scripts
 
 In the project directory, first run 
