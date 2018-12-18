@@ -68,12 +68,12 @@ class Navbar extends Component {
               className="rounded-circle"
               src={img}
               alt={img}
-              style={{ width: '25px', marginRight: '5px' }}
+              style={{ width: '100px', marginRight: '5px' }}
               title="this is favicon"
             />
         
           <Link className="navbar-brand" to="/">
-            Turf
+            aloha-CRM
           </Link>
           <button
             className="navbar-toggler"

@@ -17,10 +17,10 @@ class Landing extends Component {
           <div className="container">
             <div className="row">
               <div className="col-md-12 text-center">
-                <h1 className="display-3 mb-4">Turf</h1>
+                <h1 className="display-3 mb-4">aloha-CRM</h1>
                 <p className="lead">
                   {' '}
-                  Welcome to the opensource project Turf
+                  Welcome to the opensource project aloha-CRM
                 </p>
                 <hr />
                 <Link to="/register" className="btn btn-lg btn-info mr-2">
